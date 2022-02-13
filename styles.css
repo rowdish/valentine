@@ -9,3 +9,9 @@ body {
   font-family: cursive;
   color: grey;
 }
+p{
+  text-align: center;
+  font-family: cursive;
+  color: grey;
+  font-size: 70px;
+}
