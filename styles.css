@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(1.25turn, #FA4EAB, #ebf8e1, #FFC0D3);
+  background-color: #FFBBBB;
+}
+
+.header {
+  text-align: center;
+  padding-top: 80px;
+  font-family: cursive;
+  color: grey;
+}
